@@ -27,10 +27,12 @@ Hardware:
     3x 5v submersable water pumps.
     3x 5v soil moisture sensors.
     28 AWG stranded wire.
+    6mm water hose.
+    5v water level sensor.
 Software:
     Custom embedded C for periphrial comminications.
     Qt framework for the dashboard using C++.
 Custom components:
     3D printed pi case.
     3D printed water resevour.
-    3D printed water hose and wiring conduit.
+    3D printed conduit for water hose and wiring.
