@@ -3,7 +3,9 @@ A indoor plant watering an monitoring IoT system.
 
 
 
-A project built on Raspberry pi 3b+ and Qt framework. The Qt dashbard can be viewed via the pi web server. You can access it through any device in your web browser as long as youre on the same netwrok. The project can be scaled to your liking and aslo viewed anyware in the world through a VPN if youd like.
+A project built on Raspberry pi 3b+ and Qt framework. The Qt dashbard can be viewed via the pi web server. 
+You can access it through any device in your web browser as long as youre on the same netwrok. 
+The project can be scaled to your liking and aslo viewed anyware in the world through a VPN if youd like.
 
 
 Power supply:
